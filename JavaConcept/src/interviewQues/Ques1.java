@@ -3,13 +3,13 @@ package interviewQues;
 import java.util.ArrayList;
 import java.util.List;
 
-public class AmazonQues1 {
+public class Ques1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Question
 		// number means add, Z-remove previous num, X-twice of previous number,+ - sum of last 2 number
-		AmazonQues1 obj=new AmazonQues1();
+		Ques1 obj=new Ques1();
 		String[] arr={"5","-2","4","Z","X","9","+","+"};
 		System.out.println("Total Sum is ="+obj.targetSum(arr));
 	}

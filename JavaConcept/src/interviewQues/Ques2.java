@@ -1,12 +1,12 @@
 package interviewQues;
 import java.util.*;
 import java.util.Map.Entry;
-public class AmazonQues2 {
+public class Ques2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Find the maxAssociation Group for the given array
-		AmazonQues2 obj=new AmazonQues2();
+		Ques2 obj=new Ques2();
 		String[][] strarr=new String[][]{
 			{"text7","text8"},
 			{"text4","text5"},
