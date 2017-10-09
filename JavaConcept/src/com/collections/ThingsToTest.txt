@@ -1,0 +1,6 @@
+The below would be the things I am going to test
+1) NULL - How many and which location , should check for both Key and value
+2) Insertion Order - Is the insertion order Maintained
+3) Allow Duplicates - Yes or No
+4) Synchroznied - Yes or No
+5) Sorting
